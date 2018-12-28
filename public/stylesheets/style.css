@@ -99,6 +99,11 @@ tr {
 #twitter-icon {
 	font-size: 20px;
 }
+
+#discord-icon {
+	font-size: 20px;
+}
+
 .connections {
 	position: absolute;
 	bottom: 15px;
@@ -110,6 +115,11 @@ tr {
 }
 
 #twitter-icon img{
+	width: 40px;
+	margin: 5px 5px;
+}
+
+#discord-icon img{
 	width: 40px;
 	margin: 5px 5px;
 }

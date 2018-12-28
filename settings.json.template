@@ -64,6 +64,7 @@
     "markets": true,
     "richlist": true,
     "twitter": true,
+    "discord": true,
     "facebook": false,
     "googleplus": false,
     "youtube": false,
@@ -117,6 +118,7 @@
 
   // twitter, facebook, googleplus, youtube
   "twitter": "iquidus",
+  "discord": "WqBD6",
   "facebook": "yourfacebookpage",
   "googleplus": "yourgooglepluspage",
   "youtube": "youryoutubechannel",
